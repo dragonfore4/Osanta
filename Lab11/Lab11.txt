@@ -1,0 +1,5 @@
+Q1 : ans notifyAll();
+Q2 : ans synchoronized
+Q3 : ans wait();
+Q4 : ans Q4.1
+Q5 : ans public
