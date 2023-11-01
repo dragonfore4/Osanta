@@ -1,0 +1,19 @@
+1. q2 output
+    Data in memory: 
+    from handler 
+    Writing to memory: os kmitl
+
+2. output q3
+    successfully obtain ppid
+    ppid = 29801, Btw SIGUSR1 = 10
+    waiting for SIG before writing to server
+    Clnt write to mem & notify: os kmitl
+
+   output q4
+    from handler from handler From child: os kmitl
+
+3. /* Q5.1 */ B
+   /* Q5.2 */ (int *)
+   /* Q5.3 */ count[0] = temp;
+
+4. /* Q5.4 */ 4, 5, 6

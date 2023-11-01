@@ -1,0 +1,13 @@
+lab9_q1
+A : exitCriticalSection(0);
+B : enterCriticalSection(1);
+
+----------------------------------------
+lab9_q2
+
+C : sem_wait(&mySemaphore);
+D : sem_init(&mySemaphore,0 ,1);
+output :
+thr 140300492785216 exits. lastSeen = 189890
+Last cnt from tid[0] is 189890
+final cnt = 200000

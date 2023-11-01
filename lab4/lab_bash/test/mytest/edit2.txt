@@ -1,0 +1,5 @@
+total 8
+-rw-r--r-- 1 dragonfore4 dragonfore4    0 Aug  1 15:11 edit1.txt
+-rw-r--r-- 1 dragonfore4 dragonfore4    0 Aug  1 15:11 edit2.txt
+-rwxr-xr-x 1 dragonfore4 dragonfore4  121 Aug  1 15:10 q1.sh
+drwxr-xr-x 3 dragonfore4 dragonfore4 4096 Aug  1 15:10 test
